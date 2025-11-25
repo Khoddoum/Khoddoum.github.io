@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  
+    <head>
+        <title> Ali Khoddoum &ndash; Honors & Awards </title>
+	      <link rel="shortcut icon" type="image/icon" href="/favicon.ico"/>
+        <link rel="stylesheet" href="styles.css" />
+	       <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    </head>
+    
+ 
+    
+    <body>
+        <ul class = "subnavigation">
+            <li> <a class = "black"  href = "curriculum.html">     Overview       </a> </li>
+            <li> <a class = "black"  href = "teaching.html">       Teaching       </a> </li>
+            <li> <a class = "black"  href = "research.html">   Publications   </a> </li>
+            <li> <a class = "black"   href = "other.html">          Licenses & Certifications       </a> </li>
+              <li> <a class = "bold"   href = "honor.html">          Honors & Awards      </a> </li>
+
+        </ul>
+        
+        <ul class = "navigation">
+            <li> <a class = "white"  href="index.html">        About          </a> </li>
+            <li> <a class = "active" href="curriculum.html">   Curriculum     </a> </li>
+            <li> <a class = "white"  href="research.html">     Research       </a> </li>
+            <!--li> <a href="more.htm">                     More           </a> </li-->
+        </ul>
+        
+        <div class = "header" />
+        <div class = "header" />
+        
+
+		        <div class="row" >
+            <div class = "column wide main">
+                <h3> 
+Merit-based admission to graduate master's program in Mechanical Engineering </h3>
+                <p class = "subtitle"> Amirkabir University of Technology - Tehran Polytechnic  </p>
+                <p> 
+		    </br>
+
+	
+
+            </p>
+            </div>
+
+            </div>
+        </div>
+		        <div class="row" >
+            <div class = "column wide main">
+                <h3> 
+Directly accepted to graduate master's program as a highly talented undergraduate student
+ </h3>
+                <p class = "subtitle"> Isfahan University of Technology  </p>
+                <p> 
+		    </br>
+
+	
+
+            </p>
+	    
+	    
+	    
+	    
+        <p class = "footer"> &copy; </p>
+        
+    </body>
+</html>
+
+
