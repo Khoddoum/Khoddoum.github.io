@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+	<link rel="shortcut icon" type="image/icon" href="/favicon.ico"/>
+	<link rel="apple-touch-icon" type="image/png" href="/images/infinity.png"/>
+        <title> Ali Khoddoum &ndash; Research </title>
+        <link rel="stylesheet" href="styles.css">  
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    </head>
+    
+
+    
+    <body>
+        <ul class = "navigation">
+            <li> <a class = "white"  href="index.html">         Home        </a> </li>
+            <li> <a class = "white"  href="curriculum.html">    Curriculum  </a> </li>
+            <li> <a class = "active" href="research.html">      Research    </a> </li>
+        </ul>
+        
+        <ul class = "subnavigation">
+            <li> <a class = "black"   href = "research.html">      Research       </a> </li>
+		    <li> <a class = "bold"   href = "research.html">      Projects       </a> </li>
+
+        </ul>
+        
+        <div class = "header" />
+        <div class = "header" />
+        
+        <div class = "row">
+            <div class = "main column wide">
+            <h3>Recent Project: </h3>
+            <li>Physics-Informed Neural Network (PINN) framework for Optimization</li><br>
+			      <li>System Identification of Non-Linear Systems</li><br>
+            <li>Analysis of the Transverse Vibrations of a Timoshenko Beam Subjected to Non-Uniform Rotational Motion</li><br>
+		        <li>Non-Linear Vibration of Discrete Systems</li><br>
+            <li>Feasibility Assessment for the Design and Manufacturing of a National Diesel Generator</li><br>
+            <li>Analysis of Optimal Control Methods for a 2-DOF Robotic Manipulator</li><br>
+	      		<li>Kinematic and Dynamic Analysis of the KUKA iiwa Robot with Controller Implementation</li><br>
+            <li>Design and Implementation of Digital Control Strategies for a Fourth-Order Dynamic System</li><br>
+            <li>Design and Implementation of Classical Control Methods,
+            State Observers, Disturbance Rejection, Trajectory Tracking,
+            Kalman Filters, and Optimal Observers for a Heavy Machine Tool System</li><br>
+            <li>Time-frequency analysis Averaging Signals</li><br>
+            <li>Synthesis and Design of a Four-Bar Linkage for an Automatic Urban Bus Door Mechanism</li><br>
+            <li>Design and FE Simulation of Work Rollers in the Ring Rolling Process</li><br>
+            <li>Stress Analysis of an Car Hoist </li><br>
+            <li>Effect of turbine exit steam quality on net work studied via EES software</li><br>
+
+
+            
+        
+    
+        
+    </body>
+				    <p class = "footer"> &copy; </p>
+</html>
